@@ -1,0 +1,60 @@
+---
+title: "Antwoorden opdrachten"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## [Opdracht 1] Tijd
+**Maak twee Plumber API's**
+
+
+- Maak een API die de huidige tijd returnt (datum + tijd)
+- Maak een API die de huidige datum returnt (datum)
+
+
+Maak gebruik van de Sys package.
+
+```{r}
+#* Current time
+#* @get /time
+function(){
+  return(Sys.time())
+}
+
+#* Current day
+#* @get /date
+function(){
+  return(Sys.Date())
+}
+```
+---
+
+## [Opdracht 2] request zelf uitvoeren
+**Gebruik de API uit opdracht 1 en voer de request zelf uit in Microsoft Edge**
+
+*Hint: let op de URL*
+
+https://rstudio.ont.cjib.minjus.nl/s/42cacf713b668449ad4e4/p/3b0f7a47/time
+https://rstudio.ont.cjib.minjus.nl/s/42cacf713b668449ad4e4/p/3b0f7a47/date
+---
+
+## [Opdracht2b] *Advanced* Request zelf uitvoeren
+**Gebruik onderstaande functie en voer de request zelf uit in Microsoft Edge**
+
+Gebruik de waarden a = 5 en b = 5
+
+```
+#* Testing basic sum function
+#* @param a first value
+#* @param b second value
+#* @get /sum
+function(a, b){
+  return(as.numeric(a)+as.numeric(b))
+}
+```
+Hint: /sum? ...
+
+https://rstudio.ont.cjib.minjus.nl/s/42cacf713b668449ad4e4/p/3b0f7a47/sum?a=5&b=5

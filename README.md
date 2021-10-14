@@ -3,17 +3,17 @@
 ![CJIB logo](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Flirp.cdn-website.com%2Ffacce8ee%2Fdms3rep%2Fmulti%2Fopt%2Fcjib-fdc2d6ea-e2d6e3a5-640w.png&sp=1634200661T45270be02ae2d3d01bd87cc5caf2d46572c3625b15c30c3da8d2ad405b6a888e)
 
 ## Inhoudsopgave
-*[Basis informatie](#Basis-Informatie)
+* [Basis informatie](#Basis-Informatie)
 
-*[Setup](#Setup)
-		*[Packages](#Packages)
-		*[API file](#API-file)
-		*[Aanpassingen voor starten](#Aanpassingen-voor-starten)
-		*[API draaien](#API-draaien)
+* [Setup](#Setup)
+		* [Packages](#Packages)
+		* [API file](#API-file)
+		* [Aanpassingen voor starten](#Aanpassingen-voor-starten)
+		* [API draaien](#API-draaien)
 	
-*[Swagger](#Swagger)
+* [Swagger](#Swagger)
 
-*[Context](#Context)
+* [Context](#Context)
 
 ## Basis-Informatie
 Dit bestand bestaat uit de volgende indeling:

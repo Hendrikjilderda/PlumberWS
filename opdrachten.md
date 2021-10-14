@@ -1,5 +1,8 @@
 # Workshop opdrachten
 
+[Cheatsheet Plumber API](https://github.com/rstudio/cheatsheets/blob/master/plumber.pdf)
+
+
 ## [Opdracht 1] Simpele requests
 **Maak een Plumber API met twee functies**
 
@@ -42,4 +45,5 @@ Hint: /sum? ...
 Deze functie(s) moet de mogelijkheid hebben om een csv en pdf bestand te delen.
 
 Hint: *Een API is RESTful wanneer er geen argumenten bij de request hoeven.*
+
 Hint: ``` # @serializer {bestandtype}```

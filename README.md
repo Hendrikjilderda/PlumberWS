@@ -30,7 +30,7 @@ Deze packages kunnen worden geinstalleerd in de Rconsole met het volgende comman
 Na het installeren van de plumber package komt er een extra file mogelijkheid vrij wanneer er een nieuwe file aangemaakt kan worden, File > New File > Plumber API...
 
 Vervolgens moet er een naam voor de API bedacht worden. Wij kiezen voor "workshop".
-Door op create te klikken wordt er een plumber.R file gemaakt. Dit is je eerste API!
+Door op create te klikken wordt er een map gemaakt met een plumber.R file. Dit is je eerste API!
 
 #### Aanpassingen voor starten
 In het net aangemaakte bestand halen we alles onder regel 12 weg. Dit zijn voorbeeld API functies die wij niet nodig hebben.

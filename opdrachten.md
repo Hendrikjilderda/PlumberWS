@@ -35,3 +35,11 @@ function(a, b){
 ```
 Hint: /sum? ...
 
+## [Opdracht3] Opvragen bestanden RESTful
+### TODO: welk bestand gebruiken?
+**Maak API functie(s) die op een RESTful manier te werk gaat. **
+
+Deze functie(s) moet de mogelijkheid hebben om een csv en pdf bestand te delen.
+
+Hint: *Een API is RESTful wanneer er geen argumenten bij de request hoeven.*
+Hint: ``` # @serializer {bestandtype}```

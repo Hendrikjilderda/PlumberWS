@@ -4,7 +4,9 @@
 
 ## Inhoudsopgave
 *[Basis informatie](#Basis-Informatie)*
+
 *[Setup](#Setup)*
+
 *[Context](#Context)*
 
 ## Basis-Informatie

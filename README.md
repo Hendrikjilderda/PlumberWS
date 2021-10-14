@@ -6,10 +6,10 @@
 * [Basis informatie](#Basis-Informatie)
 
 * [Setup](#Setup)
-		* [Packages](#Packages)
-		* [API file](#API-file)
-		* [Aanpassingen voor starten](#Aanpassingen-voor-starten)
-		* [API draaien](#API-draaien)
+	* [Packages](#Packages)
+	* [API file](#API-file)
+	* [Aanpassingen voor starten](#Aanpassingen-voor-starten)
+	* [API draaien](#API-draaien)
 	
 * [Swagger](#Swagger)
 
